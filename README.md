@@ -1,4 +1,6 @@
 # arm16
-learn arm 16 bits code 
+learn arm 32bits code 
+gcc -o hello hello.s;./hello
+
 
 
